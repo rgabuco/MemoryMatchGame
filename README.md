@@ -4,10 +4,12 @@ Overview
 Memory Match Game is a simple card matching game built using Windows Forms in C#. The objective of the game is to match pairs of cards with the same value. The game supports both single-player and multiplayer modes.
 
 Requirements:
+
 •	.NET 8.0
 •	Windows OS
 
 Running the Game:
+
 •	In Visual Studio, go to Build > Build Solution.
 • Press Ctrl + F5 to run the game.
 
