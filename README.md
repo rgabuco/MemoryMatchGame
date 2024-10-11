@@ -6,12 +6,15 @@ Memory Match Game is a simple card matching game built using Windows Forms in C#
 Requirements:
 
 •	.NET 8.0
+
 •	Windows OS
 
 Running the Game:
 
 •	In Visual Studio, go to Build > Build Solution.
+
 • Press Ctrl + F5 to run the game.
+
 
 How to Play
 1.	Click on a card to reveal its value.
